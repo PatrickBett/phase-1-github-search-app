@@ -11,3 +11,9 @@
 ul {
   list-style: none;
 }
+li a{
+  text-decoration: none;
+  background-color: rgb(248, 245, 245);
+  color: green;
+  font-size: larger;
+}
